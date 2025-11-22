@@ -1,0 +1,27 @@
+name: Generate RSS
+
+on:
+  push:
+    paths:
+      - "episodes/**"
+      - "metadata/**"
+      - "metadata.json"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate RSS
+        run: python generate_rss.py
+      - name: Commit feed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add feed.xml
+          git commit -m "Update RSS feed" || echo "No changes"
+          git push
