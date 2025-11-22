@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>Research Update</title>
+    <description>A podcast about new research.</description>
+    <link>https://SimonRess.github.io/Podcasts</link>
+    <language>en-us</language>
+    
+    <item>
+        <title>2025.01 - IMK - Finanzierungsoptionen für den Stromnetzausbau und ihre Auswirkungen auf die Netzentgelte</title>
+        <description><![CDATA[Neue Studie des IMK zu Finanzierungsoptionen für den Stromnetzausbau und ihre Auswirkungen auf die Netzentgelte]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/001%20-%20Finanzierungsoptionen%20f%C3%BCr%20den%20Stromnetzausbau%20und%20ihre%20Auswirkungen%20auf%20die%20Netzentgelte.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/001%20-%20Finanzierungsoptionen%20f%C3%BCr%20den%20Stromnetzausbau%20und%20ihre%20Auswirkungen%20auf%20die%20Netzentgelte.mp3</guid>
+        <pubDate>Sat, 01 Feb 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+</channel>
+</rss>
