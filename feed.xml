@@ -27,5 +27,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>Analyzing Income Inequality in Germany: Insights from the WSI-Verteilungsbericht 2025</title>
+        <description><![CDATA[This episode explores the key findings of the WSI-Verteilungsbericht 2025, highlighting the rise in income inequality in Germany since 2010, its impact on democratic participation and trust, and potential policy solutions to promote social cohesion and fairness.]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/003%20-%20Analyzing%20Income%20Inequality%20in%20Germany.%20Insights%20from%20the%20WSI-Verteilungsbericht%202025.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/003%20-%20Analyzing%20Income%20Inequality%20in%20Germany.%20Insights%20from%20the%20WSI-Verteilungsbericht%202025.mp3</guid>
+        <pubDate>Sun, 23 Nov 2025 13:59:27 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
