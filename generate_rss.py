@@ -18,13 +18,14 @@ mp3_files = sorted([
 
 items = ""
 for mp3 in mp3_files:
-    base = mp3.rsplit(".", 1)[0]
-    meta_file = f"{base}.json"
+    base = mp3.rsplit(".", 1)[0] # Remove .mp3 extension
+    meta_file = f"{base}.json" # Corresponding metadata file name
     meta_path = os.path.join(metadata_dir, meta_file)
 
     if not os.path.exists(meta_path):
         raise FileNotFoundError(f"No metadata JSON found for {mp3}")
 
+    # Load episode metadata
     with open(meta_path) as f:
         m = json.load(f)
 
