@@ -17,5 +17,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>Zukunft unseres Stromnetzes in Deutschland - Investitionsbedarf und Herausforderungen</title>
+        <description><![CDATA[In diesem Podcast diskutieren wir die aktuellen Herausforderungen und den enormen Investitionsbedarf für den Ausbau und die Modernisierung des deutschen Stromnetzes bis 2045. Basierend auf einer Studie der Hans-Böckler-Stiftung, beleuchten wir die erforderlichen finanziellen Mittel, die technischen und politischen Herausforderungen sowie die Bedeutung eines gut geplanten Netzausbaus für die Erreichung der Klimaziele und die Energiesystemtransformation in Deutschland.]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/002%20-%20Zukunft%20unseres%20Stromnetzes%20in%20Deutschland%20-%20Investitionsbedarf%20und%20Herausforderungen.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/002%20-%20Zukunft%20unseres%20Stromnetzes%20in%20Deutschland%20-%20Investitionsbedarf%20und%20Herausforderungen.mp3</guid>
+        <pubDate>Sun, 23 Nov 2025 03:29:45 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
