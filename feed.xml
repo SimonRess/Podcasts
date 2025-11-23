@@ -27,5 +27,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>Wichtigste Erkenntnisse des WSI-Verteilungsberichts 2025: Soziale Ungleichheit in Deutschland</title>
+        <description><![CDATA[In dieser Episode diskutieren wir die zentralen Ergebnisse des aktuellen WSI-Verteilungsberichts 2025. Wir analysieren die zunehmende Einkommensungleichheit, ihre Ursachen wie den Arbeitsmarkt, steuerliche Reformen und soziale Ausgaben, sowie die politischen Konsequenzen. Erfahren Sie, wie soziale Spaltung, politische Partizipation und gesellschaftlicher Zusammenhalt miteinander verknüpft sind und welche Maßnahmen notwendig sind, um die Demokratie zu stärken.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/003 - Wichtigste Erkenntnisse des WSI-Verteilungsberichts 2025. Soziale Ungleichheit in Deutschland.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/003%20-%20Wichtigste%20Erkenntnisse%20des%20WSI-Verteilungsberichts%202025.%20Soziale%20Ungleichheit%20in%20Deutschland.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/003%20-%20Wichtigste%20Erkenntnisse%20des%20WSI-Verteilungsberichts%202025.%20Soziale%20Ungleichheit%20in%20Deutschland.mp3</guid>
+        <pubDate>Sun, 23 Nov 2025 14:22:53 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
