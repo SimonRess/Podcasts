@@ -47,5 +47,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202511.IMK - Kritik am Steueränderungsgesetz 2025: Prioritäten setzen statt Steuergeschenke</title>
+        <description><![CDATA[In dieser Folge diskutieren wir die wichtigsten Punkte eines Policy Briefs des IMK, der die geplanten Steueränderungen in Deutschland kritisiert. Besonders werden die Auswirkungen der geplanten Umsatzsteuererleichterungen in der Gastronomie und der Erhöhung der Entfernungspauschale beleuchtet. Der Podcast analysiert die fiskalischen und gesellschaftlichen Konsequenzen, betont die Notwendigkeit nachhaltiger Investitionen und plädiert für eine ausgewogene, gerechte Steuerpolitik, die langfristiges Wachstum fördert.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/005 - Kritik am Steueränderungsgesetz 2025. Prioritäten setzen statt Steuergeschenke.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/005%20-%20202511.IMK%20-%20Kritik%20am%20Steuer%C3%A4nderungsgesetz%202025.%20Priorit%C3%A4ten%20setzen%20statt%20Steuergeschenke.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/005%20-%20202511.IMK%20-%20Kritik%20am%20Steuer%C3%A4nderungsgesetz%202025.%20Priorit%C3%A4ten%20setzen%20statt%20Steuergeschenke.mp3</guid>
+        <pubDate>Mon, 24 Nov 2025 22:12:16 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
