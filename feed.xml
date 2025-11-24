@@ -37,5 +37,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202511.IMK - Inflation in Deutschland 2025: Aktuelle Entwicklungen und Ausblick</title>
+        <description><![CDATA[In dieser Episode analysieren wir die neuesten Erkenntnisse zur Inflation in Deutschland im Jahr 2025. Wir sprechen über die sinkende Inflationsrate, Veränderungen bei Energie- und Lebensmittelpreisen, die unterschiedliche Belastung verschiedener Haushaltstypen sowie die geldpolitischen Maßnahmen der EZB. Außerdem betrachten wir dieglobalen Einflussfaktoren und den Ausblick für die kommenden Monate.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/004 - Inflation in Deutschland 2025. Aktuelle Entwicklungen und Ausblick.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/004%20-%20202511.IMK%20-%20Inflation%20in%20Deutschland%202025.%20Aktuelle%20Entwicklungen%20und%20Ausblick.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/004%20-%20202511.IMK%20-%20Inflation%20in%20Deutschland%202025.%20Aktuelle%20Entwicklungen%20und%20Ausblick.mp3</guid>
+        <pubDate>Mon, 24 Nov 2025 22:08:54 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
