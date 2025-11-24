@@ -57,5 +57,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202511.IMK - Rentenpolitik in Deutschland: Das Rentenpaket 2025 im Fokus</title>
+        <description><![CDATA[In dieser Podcast-Episode diskutieren wir die wichtigsten Aspekte des aktuellen Policy Briefs zur Rentenpolitik in Deutschland. Wir analysieren das Rentenpaket 2025, seine Maßnahmen zur Stabilisierung des Rentenniveaus, die Reform der Mütterrente III, die Finanzierungsfragen sowie die Auswirkungen auf verschiedene Generationen. Außerdem beleuchten wir die Herausforderungen und Chancen einer nachhaltigen und gerechteren Rentenpolitik in Deutschland.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/006 - Rentenpolitik in Deutschland. Das Rentenpaket 2025 im Fokus.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/006%20-%20202511.IMK%20-%20Rentenpolitik%20in%20Deutschland.%20Das%20Rentenpaket%202025%20im%20Fokus.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/006%20-%20202511.IMK%20-%20Rentenpolitik%20in%20Deutschland.%20Das%20Rentenpaket%202025%20im%20Fokus.mp3</guid>
+        <pubDate>Mon, 24 Nov 2025 22:14:49 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
