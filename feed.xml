@@ -67,5 +67,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202412.IMK - Zukunft der deutschen Stromnetze: Investitionen für die Energiewende</title>
+        <description><![CDATA[In diesem Podcast wird die dringend benötigte Infrastrukturentwicklung der deutschen Stromnetze beleuchtet, die für die Energiewende bis 2045 entscheidend ist. Es werden die Investitionssummen, Herausforderungen, Szenarien sowie die Bedeutung der Netzausbau-Strategien diskutiert, um eine nachhaltige und stabile Stromversorgung in Deutschland zu gewährleisten.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/007 - Zukunft der deutschen Stromnetze. Investitionen für die Energiewende.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/007%20-%20202412.IMK%20-%20Zukunft%20der%20deutschen%20Stromnetze.%20Investitionen%20f%C3%BCr%20die%20Energiewende.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/007%20-%20202412.IMK%20-%20Zukunft%20der%20deutschen%20Stromnetze.%20Investitionen%20f%C3%BCr%20die%20Energiewende.mp3</guid>
+        <pubDate>Fri, 05 Dec 2025 16:51:50 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
