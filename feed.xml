@@ -87,5 +87,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202509.IMK, Hans-Böckler-Stiftung - The Power of Political Narratives and Partisan Bias in Shaping Public Opinions on Fiscal Policy</title>
+        <description><![CDATA[This episode explores recent research by Juergens and Gechert (2025) on how political narratives influence public opinions about debt and deficits. The study finds that while narratives alone may not shift opinions significantly, emotionally charged stories that resonate with core values can penetrate partisan biases. We discuss implications for policymakers and the importance of storytelling that connects on moral and emotional levels to foster more balanced public debates on fiscal issues.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/009 - The Power of Political Narratives and Partisan Bias in Shaping Public Opinions on Fiscal Policy.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/009%20-%20202509.IMK%2C%20Hans-B%C3%B6ckler-Stiftung%20-%20The%20Power%20of%20Political%20Narratives%20and%20Partisan%20Bias%20in%20Shaping%20Public%20Opinions%20on%20Fiscal%20Policy.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/009%20-%20202509.IMK%2C%20Hans-B%C3%B6ckler-Stiftung%20-%20The%20Power%20of%20Political%20Narratives%20and%20Partisan%20Bias%20in%20Shaping%20Public%20Opinions%20on%20Fiscal%20Policy.mp3</guid>
+        <pubDate>Sat, 06 Dec 2025 15:06:15 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
