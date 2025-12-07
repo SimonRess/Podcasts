@@ -97,5 +97,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202510.IMK - Nordrhein-Westfalen Haushaltsentwurf 2026: Chancen und Herausforderungen</title>
+        <description><![CDATA[In dieser Episode analysieren wir den aktuellen Haushaltsentwurf für 2026 des Landes Nordrhein-Westfalen. Wir beleuchten die Nutzung eines Sondervermögens für Infrastruktur und Klimaneutralität, diskutieren die finanzielle Lage, Verschuldungspolitik sowie Steuerreformen. Erfahren Sie, wie NRW trotz Herausforderungen durch strategische Investitionen und kluge Finanzpolitik die Weichen für eine nachhaltige Modernisierung stellt.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/010 - Nordrhein-Westfalen Haushaltsentwurf 2026. Chancen und Herausforderungen.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/010%20-%20202510.IMK%20-%20Nordrhein-Westfalen%20Haushaltsentwurf%202026.%20Chancen%20und%20Herausforderungen.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/010%20-%20202510.IMK%20-%20Nordrhein-Westfalen%20Haushaltsentwurf%202026.%20Chancen%20und%20Herausforderungen.mp3</guid>
+        <pubDate>Sun, 07 Dec 2025 12:28:51 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
