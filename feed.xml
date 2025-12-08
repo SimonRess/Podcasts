@@ -107,5 +107,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202501.IMK - Modell Deutschland neu justieren – Nachfrage und Innovationen stärken (Podcast-Folge, Januar 2025)</title>
+        <description><![CDATA[In dieser Folge werden die zentralen Erkenntnisse des Berichts 'Modell Deutschland neu justieren – Nachfrage und Innovationen stärken' vom IMK vorgestellt. Es geht um die Herausforderungen der deutschen Wirtschaft im Jahr 2025, darunter wirtschaftliche Stagnation, geopolitische Spannungen, die Bedeutung einer strategischen Industriepolitik und die Notwendigkeit, die Energieversorgung nachhaltig und resilient zu gestalten. Zudem werden politische Empfehlungen für eine zügige und gezielte Reaktion der deutschen und europäischen Politik diskutiert, um die Wettbewerbsfähigkeit Deutschlands zu sichern und die europäische Autonomie zu stärken.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/011 - Modell Deutschland neu justieren – Nachfrage und Innovationen stärken (Podcast-Folge, Januar 2025).pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/011%20-%20202501.IMK%20-%20Modell%20Deutschland%20neu%20justieren%20%E2%80%93%20Nachfrage%20und%20Innovationen%20st%C3%A4rken%20%28Podcast-Folge%2C%20Januar%202025%29.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/011%20-%20202501.IMK%20-%20Modell%20Deutschland%20neu%20justieren%20%E2%80%93%20Nachfrage%20und%20Innovationen%20st%C3%A4rken%20%28Podcast-Folge%2C%20Januar%202025%29.mp3</guid>
+        <pubDate>Mon, 08 Dec 2025 13:47:07 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
