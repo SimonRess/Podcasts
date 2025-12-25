@@ -117,5 +117,15 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
     
+    <item>
+        <title>202407.IMK - Herausforderungen und Chancen der deutschen Wirtschaftspolitik im Kontext der Polykrise</title>
+        <description><![CDATA[In diesem Podcast analysieren wir die Studie 'Nachhaltigkeit der Wirtschaftspolitik in Zeiten der Polykrise' vom Juli 2024, veröffentlicht von der Hans-Böckler-Stiftung. Schwerpunkt ist das Konzept des 'Neuen Magischen Vierecks', das die vier Kernziele nachhaltiger Wirtschaftspolitik betrachtet: materieller Wohlstand, ökonomische Stabilität, soziale und ökologische Nachhaltigkeit. Wir beleuchten die aktuellen Entwicklungen in Deutschland, Herausforderungen in den Bereichen Wirtschaft, Finanzen, Gesellschaft und Umwelt sowie Strategien für eine nachhaltige Zukunft.. Find PDF here: https://github.com/SimonRess/Podcasts/blob/main/literature/012 - Herausforderungen und Chancen der deutschen Wirtschaftspolitik im Kontext der Polykrise.pdf]]></description>
+        <enclosure url="https://SimonRess.github.io/Podcasts/episodes/012%20-%20202407.IMK%20-%20Herausforderungen%20und%20Chancen%20der%20deutschen%20Wirtschaftspolitik%20im%20Kontext%20der%20Polykrise.mp3" type="audio/mpeg" />
+        <guid>https://SimonRess.github.io/Podcasts/episodes/012%20-%20202407.IMK%20-%20Herausforderungen%20und%20Chancen%20der%20deutschen%20Wirtschaftspolitik%20im%20Kontext%20der%20Polykrise.mp3</guid>
+        <pubDate>Thu, 25 Dec 2025 17:54:14 GMT</pubDate>
+        <itunes:duration>3:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    
 </channel>
 </rss>
